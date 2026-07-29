@@ -18,8 +18,8 @@ Sou estudante de Desenvolvimento de Sistemas, com interesse em Desenvolvimento B
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,nodejs,discordjs,fastapi,react,vercel,netlify,lua,mysql,github,figma,mongodb&perline=4)](https://skillicons.dev)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/your-github-username?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/your-github-username">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/davi-levy?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/davi-levy">
 </picture>
 
 # Contato

@@ -25,4 +25,4 @@ Sou estudante de Desenvolvimento de Sistemas, com interesse em Desenvolvimento B
 # Contato
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:d4vil3vy@gmail.com)
 	[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1033862273564946462/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davi.lev) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/KloutZ1)
+[![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white])](https://instagram.com/davi.lev)
